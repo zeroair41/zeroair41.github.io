@@ -36,7 +36,7 @@ description:  "I’m zeroair, a cyber security researcher and CTF player. Always
 - **Web Exploitation & Pentesting:** Discovering hidden flaws and crafting innovative attack vectors..  
 - **Cryptography:** Pulling code apart byte by byte.  
 - **Capture The Flag (CTF):** From crypto to forensics, always decoding the next challenge.  
-- **Community Building:** Growing NCA@Nepal to make Nepal a name in global CTF rankings.  
+- **Community Building:** Growing [NCA@Nepal](https://ncateam.xyz) to make Nepal a name in global CTF rankings.  
 
 ---
 
